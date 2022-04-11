@@ -51,22 +51,22 @@ SUDO_USERS.append(5186262975)
 
 # Tokens
 
-Kat = TelegramClient('Mig', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
+Kat = TelegramClient('Kat', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
-Kat2 = TelegramClient('Mig2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
+Kat2 = TelegramClient('Kat2', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
 
-Kat3 = TelegramClient('Mig3', API_ID, API_HASH).start(bot_token=BOT_TOKEN3)
+Kat3 = TelegramClient('Kat3', API_ID, API_HASH).start(bot_token=BOT_TOKEN3)
 
-Kat4 = TelegramClient('Mig4', API_ID, API_HASH).start(bot_token=BOT_TOKEN4)
+Kat4 = TelegramClient('Kat4', API_ID, API_HASH).start(bot_token=BOT_TOKEN4)
 
-Kat5 = TelegramClient('Mig5', API_ID, API_HASH).start(bot_token=BOT_TOKEN5)
+Kat5 = TelegramClient('Kat5', API_ID, API_HASH).start(bot_token=BOT_TOKEN5)
 
-Kat6 = TelegramClient('Mig6', API_ID, API_HASH).start(bot_token=BOT_TOKEN6)
+Kat6 = TelegramClient('Kat6', API_ID, API_HASH).start(bot_token=BOT_TOKEN6)
 
-Kat7 = TelegramClient('Mig7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
+Kat7 = TelegramClient('Kat7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
 
-Kat8 = TelegramClient('Mig8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
+Kat8 = TelegramClient('Kat8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
 
-Kat9 = TelegramClient('Mig9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
+Kat9 = TelegramClient('Kat9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
 
-Kat10 = TelegramClient('Mig10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
+Kat10 = TelegramClient('Kat10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
