@@ -152,7 +152,7 @@ async def helpback(event):
             Button.inline("⚡ Extra ⚡", data="extra"),
            ],
            [    
-            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/MightyXUpdates")
+            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/KatilXUpdates")
            ],
            [
            Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/KatilXSupport")
