@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/38eae16b57a0c2d039423.jpg"width="350"" alt="KatilXSpam Logo">
+  <img src="LOGO CREAT"width="350"" alt="KatilXSpam Logo">
 </p>
 <h1 align="center">
   <b>⚠️ Katil 𝘟 𝘉𝘰𝘵 𝘚𝘱𝘢𝘮 ⚠️</b>
