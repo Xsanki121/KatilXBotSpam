@@ -55,7 +55,7 @@ async def start(event):
        ownermsg = f"**Hello Boss !!, It's Me {bot_name}, Your Spam Bot !! \n\n Click Below Buttons For Help. 🌚**"
        usermsg = f"**Hello !! [{firstname}](tg://user?id={userid})\nNice To Meet You, Well I Am [{bot_name}](tg://user?id={bot_id}), A Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Given Below.** \n\n**Powered By : [Katil 𝙓 𝙎𝙥𝙖𝙢](https://t.me/KatilXSpam)**"
        if event.sender_id == OWNER_ID:
-            await event.client.send_file(TheMighty,
+            await event.client.send_file(Thekatil,
                   KAT_IMG,
                   caption=ownermsg, 
                   buttons=Kat_Button)
