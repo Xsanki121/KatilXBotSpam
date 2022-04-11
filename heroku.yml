@@ -1,5 +1,5 @@
 build:
   docker:
-    Mig: Dockerfile
+    kat: Dockerfile
 run:
-  Mig: python3 -m KatilXSpam
+  kat: python3 -m KatilXSpam
