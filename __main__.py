@@ -8,7 +8,7 @@ from pathlib import Path
 from KatilXSpam.utils import load_plugins
 import logging
 from telethon import events
-from . import kat, Kat2, Kat3, Kat4, Kat5, Kat6, Kat7, Kat8, Kat9, Kat10
+from . import Kat, Kat2, Kat3, Kat4, Kat5, Kat6, Kat7, Kat8, Kat9, Kat10
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
