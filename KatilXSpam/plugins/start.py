@@ -46,8 +46,8 @@ KatX_Button = [
 async def start(event):              
     if event.is_private:
        KatBot = await event.client.get_me()
-       bot_name = MigBot.first_name
-       bot_id = MigBot.id
+       bot_name = KatBot.first_name
+       bot_id = KatBot.id
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        Thekatil = event.chat_id
        firstname = replied_user.user.first_name
