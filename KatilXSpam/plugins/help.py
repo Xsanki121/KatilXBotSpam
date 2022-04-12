@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from KatilXSpam import CMD_HNDLR as hl
     
-HELP_PIC = "logo"
+HELP_PIC = "https://telegra.ph/file/2ada1cd833d9361c35a78.jpg"
 
 Kat_Help = "★ 𝐊𝐚𝐭𝐢𝐥𝙓𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩"
 
