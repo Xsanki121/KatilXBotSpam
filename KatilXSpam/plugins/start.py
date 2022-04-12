@@ -7,7 +7,7 @@ from .. import Kat, Kat2, Kat3, Kat4, Kat5, Kat6, Kat7, Kat8, Kat9, Kat10, ALIVE
 from KatilXSpam.plugins.help import *
 
 
-KAT_IMG = ALIVE_PIC if ALIVE_PIC else "LOGO"
+KAT_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/2ada1cd833d9361c35a78.jpg"
 
 Kat_Button = [
         [
