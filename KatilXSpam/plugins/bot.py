@@ -14,7 +14,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-KAT_PIC = ALIVE_PIC if ALIVE_PIC else "LOGO CREAT"
+KAT_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/2ada1cd833d9361c35a78.jpg"
 
 KAT_TEXT = ALIVE_TEXT if ALIVE_TEXT else "╚»★ 𝐊𝐚𝐭𝐢𝐥𝗫𝗦𝗽𝗮𝗺 𝗶𝘀 𝗛𝗲𝗿𝗲 ★«╝"
 
@@ -42,7 +42,7 @@ async def alive(event):
                                   KAT_PIC, caption=f"""{KAT_TEXT}\n\n═══════════════════\n⚡ 𝐏𝐢𝐧𝐠  : `{ms}ᵐˢ`\n⚡ 𝐎𝐰𝐧𝐞𝐫 : {mention}\n⚡ 𝐊𝐚𝐭𝐢𝐥 𝐗 𝐒𝐩𝐚𝐦 : `{Katilversion}`\n⚡ 𝐏𝐲𝐭𝐡𝐨𝐧 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `3.9.6`\n⚡ 𝐓𝐞𝐥𝐞𝐭𝐡𝐨𝐧 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : `{version.__version__}`\n═══════════════════\n\n""", buttons=[
         [
         Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/KatilXUpdates"),
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/MightyXSupport")
+        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/KatilXSupport")
         ],
         [
         Button.url("🔥 ʀᴇᴘᴏ 🔥", "https://github.com/bhumiharsaurabh/KatilXBotSpam")
