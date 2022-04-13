@@ -11,7 +11,7 @@ KAT_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/2ada1cd833d9361c3
 
 Kat_Button = [
         [
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/@KatilXSupport")
+        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/KatilXSupport")
         ],
         [
         Button.inline("⚡ ᴄᴏᴍᴍᴀɴᴅs ⚡", data="help_back")
